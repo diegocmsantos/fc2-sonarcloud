@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "sonar-scanner": "^3.1.0"
+  },
+  "name": "sonar-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
